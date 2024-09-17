@@ -8,7 +8,6 @@ public class DemoVideoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoVideoApplication.class, args);
-		System.out.println("hola");
 	}
 
 }
